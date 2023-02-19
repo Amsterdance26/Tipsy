@@ -277,8 +277,7 @@
                                     <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="10f"/>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <action selector="recalculatePressed:" destination="Dnf-m2-FPm" eventType="touchUpInside" id="09G-1f-hb3"/>
-                                    <action selector="recalculatePressedWithSender:" destination="Dnf-m2-FPm" eventType="touchUpInside" id="kh2-Rz-A51"/>
+                                    <action selector="recalculatePressed:" destination="Dnf-m2-FPm" eventType="touchUpInside" id="m2a-f3-uKS"/>
                                 </connections>
                             </button>
                         </subviews>
